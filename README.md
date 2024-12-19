@@ -1,6 +1,6 @@
 # 🚀 **Ultimate LeetCode Resources for DSA Mastery & Coding Interviews**  
 
-![LeetCode Mastery]([https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/9a10b835-18b5-409f-845c-a11cc0095e9c/Interview_Master_100__1_.gif?t=1719512750])  
+![LeetCode Mastery](image/Interview_Master_100__1_.gif)  
 
 This repository is your one-stop destination for mastering **Data Structures and Algorithms (DSA)** while preparing for **coding interviews**! 💡 Dive into **curated resources, patterns, problem templates, and tools** designed to level up your problem-solving skills.  
 
